@@ -9,4 +9,6 @@ extern f32 zPos;
 extern f32 unkPosRelated;
 extern f32 yaw;
 
+extern u16 pressedButtons;
+
 #endif
